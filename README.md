@@ -267,7 +267,7 @@ Features:
 * Remaining Useful Life estimation
 * Machine health status monitoring
   
-![Transformer Prediction](images/transformer/transformer_prediction_vs_actual.png)
+![Streamlit_dashboard](images/Streamlit_dashboard.png)
 
 ---
 
