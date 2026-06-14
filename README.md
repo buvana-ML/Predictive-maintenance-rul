@@ -310,9 +310,9 @@ Critical  : RUL ≤ 40
 ## Installation
 
 ```bash
-git clone https://github.com/buvana-ML/Predictive-Maintenance-rul.git
+git clone https://github.com/buvana-ML/Predictive-maintenance-rul.git
 
-cd Predictive-Maintenance-rul
+cd Predictive-maintenance-rul
 
 pip install -r requirements.txt
 ```
