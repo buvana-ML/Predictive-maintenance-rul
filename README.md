@@ -1,4 +1,4 @@
-# 🚀 Predictive Maintenance using Deep Learning
+# Predictive Maintenance using Deep Learning
 
 ## Overview
 
